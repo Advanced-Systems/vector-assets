@@ -107,9 +107,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="76.878439"
-     inkscape:cy="37.32196"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-139.63284"
+     inkscape:cy="-9.7032586"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -295,12 +295,6 @@
            id="path972" />
       </g>
     </g>
-    <circle
-       id="path903"
-       style="fill:#641220;stroke:#000000;stroke-width:0.264583"
-       cx="225.25276"
-       cy="342.56531"
-       r="0.017661087" />
   </g>
   <script
      id="mesh_polyfill"
