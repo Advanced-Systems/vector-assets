@@ -1,15 +1,23 @@
-# Advanced Systems
+<p align="center">
+  <a title="Project Logo">
+    <img height="150" style="margin-top:15px" src="https://raw.githubusercontent.com/Advanced-Systems/vector-assets/master/advanced-systems-logo-annotated.svg">
+  </a>
+</p>
+
+<h1 align="center">Advanced Systems Vector Assets</h1>
 
 ## About
 
 This repository serves as a collection of vector files associated with this
 organization. The primary goal of this project is to develop a modern and consistent
-design that is to be used throughout all projects.
+design that is to be used throughout all projects, and by extension, the website
+of this organization.
 
 ## Copyright Notice
 
-No image or information contained in this repository may be reproduced, transmitted
-or copied (other than for the purpose of fair dealing, as defined in the Copyright
-Act 1968) without the express permission and consent of members of this organization.
-Contravention is an infringement of the Copyright Act and its amendments and may
-be subject to legal action.
+All images contained in this repository are licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND).
+You should have obtained a copy of the license together with this repository. If
+that's not the case, peruse the licencing terms [here](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
+before you proceed to use any of these files in an illegitimate project unauthorized
+by administrators of this organization.
