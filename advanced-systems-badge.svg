@@ -14,7 +14,7 @@
    version="1.1"
    id="svg1231"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="advanced-system-badge.svg"
+   sodipodi:docname="advanced-systems-badge.svg"
    inkscape:export-filename="C:\Users\Stefan Greve\Desktop\wip\advanced-systems-badge.png"
    inkscape:export-xdpi="3000"
    inkscape:export-ydpi="3000">
@@ -175,6 +175,12 @@
         </dc:rights>
         <cc:license
            rdf:resource="" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Advanced Systems</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>https://github.com/Advanced-Systems/vector-assets</dc:source>
       </cc:Work>
     </rdf:RDF>
   </metadata>
