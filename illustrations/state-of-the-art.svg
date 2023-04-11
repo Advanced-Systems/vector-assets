@@ -19,7 +19,7 @@
    inkscape:export-xdpi="71.679993"
    inkscape:export-ydpi="71.679993">
   <title
-     id="title3478">Lost In Space</title>
+     id="title10057">State of the Art</title>
   <defs
      id="defs1225">
     <linearGradient
@@ -404,8 +404,8 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Lost In Space</dc:title>
-        <dc:date>2021/01/27</dc:date>
+        <dc:title>State of the Art</dc:title>
+        <dc:date>2021/04/18</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>hentai-chan</dc:title>
@@ -417,7 +417,7 @@
           </cc:Agent>
         </dc:rights>
         <cc:license
-           rdf:resource="" />
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/" />
         <dc:source>https://github.com/Advanced-Systems/vector-assets</dc:source>
         <dc:publisher>
           <cc:Agent>
@@ -425,6 +425,19 @@
           </cc:Agent>
         </dc:publisher>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g

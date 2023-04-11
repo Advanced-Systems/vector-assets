@@ -12,7 +12,7 @@
    viewBox="0 0 1394.6829 855.22713"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="rocket.svg">
   <title
      id="title1057">Rocket</title>
@@ -174,7 +174,7 @@
           </cc:Agent>
         </dc:rights>
         <cc:license
-           rdf:resource="" />
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/" />
         <dc:publisher>
           <cc:Agent>
             <dc:title>Advanced Systems</dc:title>
@@ -182,6 +182,19 @@
         </dc:publisher>
         <dc:source>https://github.com/Advanced-Systems/vector-assets</dc:source>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g

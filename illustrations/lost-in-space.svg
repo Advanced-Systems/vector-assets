@@ -13,7 +13,7 @@
    viewBox="0 0 354.54166 317.50004"
    version="1.1"
    id="svg1231"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="lost-in-space.svg">
   <title
      id="title3478">Lost In Space</title>
@@ -444,7 +444,7 @@
           </cc:Agent>
         </dc:rights>
         <cc:license
-           rdf:resource="" />
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/" />
         <dc:source>https://github.com/Advanced-Systems/vector-assets</dc:source>
         <dc:publisher>
           <cc:Agent>
@@ -452,6 +452,19 @@
           </cc:Agent>
         </dc:publisher>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
